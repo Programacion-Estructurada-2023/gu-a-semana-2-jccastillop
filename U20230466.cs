@@ -9,9 +9,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
 
             //DECLARACION DE VARIABLES
-
-
-
             int edad = 20;
 
             string objeto = "computadora";
@@ -22,20 +19,20 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             bool activo = true;
 
-            //ITEMS 1 DECLARACION DE VARIABLE DE TIPO STRING
+            //ITEMS 1 DECLARACION DE VARIABLES DE TIPO STRING
 
             string primernombre = "Juan"; 
             string segundonombre = "Carlos";
             string primerapellido = "Castillo";
             string segundoapellido = "Parada";
 
-            //ITEMS 2 DECLARACION DE VARIABLE DE TIPO INT
+            //ITEMS 2 DECLARACION DE VARIABLES DE TIPO INT
 
             int edadCarlos = 20;
             int edadPadre = 69;
             int edadMadre = 64;
 
-            //ITEMS 3 DECCLARACION DE VARIABLE DE TIPO FLOAT
+            //ITEMS 3 DECCLARACION DE VARIABLES DE TIPO FLOAT
 
             float internet = 30.00;
             float transporte = 3.75;
